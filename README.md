@@ -1,6 +1,6 @@
 # Spring-study
 
-## DI
+## DI(Dependency Injection)
 - Application Context
   - ClassPathXmlApplicationContext
   - FileSystemXmlApplicationContext
