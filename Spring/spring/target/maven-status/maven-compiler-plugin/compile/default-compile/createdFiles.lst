@@ -1,0 +1,3 @@
+spring\di\entity\Exam.class
+spring\di\entity\NewlecExam.class
+spring\di\ui\ExamConsole.class
